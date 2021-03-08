@@ -5,7 +5,8 @@ using System.Threading.Tasks;
 
 namespace Ventas_Gonzalez_Nuñez.Web.Models
 {
-    public class Currence
+    public class Currency
     {
+
     }
 }
